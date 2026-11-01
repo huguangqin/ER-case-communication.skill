@@ -1,4 +1,14 @@
 # ER-case-communication.skill
+
+> ⚠️ **本仓库已迁移，不再维护。**
+>
+> Skill 已并入 [hr-toolkit](https://github.com/huguangqin/hr-toolkit) 仓库的
+> [`skills/er-case-communication/`](https://github.com/huguangqin/hr-toolkit/tree/main/skills/er-case-communication) 目录，与薪酬设计 Skill 统一管理。
+> 新版已解压为可直接安装的目录结构（SKILL.md + references/），`SKILL.md` 同时兼容 WorkBuddy 与 Hermes。
+> 请前往新地址获取最新版本。
+
+---
+
 覆盖内容  
 5 大场景全覆盖：违纪解除、协商解除 / 劝退、绩效改进 (PIP)、调岗调薪、员工投诉 —— 每个场景都有完整的分步操作流程。  
 结合败诉案例的实战经验： 内置 "处罚适配评估矩阵"，8 个维度逐项打分  证据链断裂（25%）→ 内置证据保全 SOP，按证据类型明确保全要求  程序瑕疵（17%）→ 内置程序合规核查清单，逐项打勾  管理漏洞（25%）→ 明确区分真实违纪 vs 借名处理   三步合规底线：合法（法律依据）→ 合理（处罚适配）→ 合情（沟通温度），每个环节都有对应的话术模板和检查清单。  
